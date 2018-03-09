@@ -1,0 +1,20 @@
+.navbar-default{
+	background: lightblue;
+}
+.dropdown-menu>li>a{
+	background: lightblue;
+}
+.dropdown-menu>li>a:hover{
+	background: blue;
+	color: #fff;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover
+{
+	background: blue;
+	color: #fff;
+}
+.navbar-default .navbar-brand {
+    color: yellow;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #111;

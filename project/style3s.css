@@ -1,0 +1,16 @@
+.navbar-default .navbar-brand {
+    color: #2bb515;
+}
+a {
+    background-color: #eee;
+}
+.navbar-brand{
+	font-family: "Comic Sans MS";
+	background: black;
+}
+.about1{
+	text-align: center;
+}
+.alert-success .alert-warning{
+	text-align: center;
+}
